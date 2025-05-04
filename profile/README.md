@@ -2,6 +2,7 @@
 
 Roblox gamers and scripters, your search for the perfect script executor ends here! Introducing **Evon Executor**, the leading free, keyless, and anti-ban script executor for Roblox in 2025. Whether you're on PC or mobile, Evon offers a seamless and powerful scripting experience.
 
+[![Download Evon](https://img.shields.io/badge/Download-Evon-blueviolet)](https://rotools.bitbucket.io/executors/evon)
 ---
 
 ## 🚀 Why Choose Evon Executor?
